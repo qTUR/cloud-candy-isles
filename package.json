@@ -1,0 +1,17 @@
+{
+  "name": "cloud-candy-isles",
+  "version": "1.0.0",
+  "description": "Cloud Candy Isles - a cozy one-finger 3D tycoon game",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test/run.js youtube",
+    "covers": "node tools/covers.js"
+  },
+  "author": "qTUR",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@fontsource/baloo-bhaijaan-2": "^5.3.0",
+    "three": "^0.128.0"
+  },
+  "private": true
+}

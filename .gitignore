@@ -1,0 +1,6 @@
+node_modules/
+dist/
+deliver/
+test/out/
+covers/raw-*.png
+covers/log.txt
